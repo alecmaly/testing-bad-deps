@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jwt-decode": "1.1.2"
+    "jwt-decode": "1.1.2",
+    "ua-parser-js": "0.7.28"
   }
 }
