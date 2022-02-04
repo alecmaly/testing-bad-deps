@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jwt-decode": "1.1.2",
-    "hoek": "4.2.0"
+    "hoek": "4.2.0",
+    "gooberr": "4.2.0"
   }
 }
