@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "jwt-decode": "1.1.2",
-    "ua-parser-js": "0.7.28"
+    "hoek": "4.2.0"
   }
 }
